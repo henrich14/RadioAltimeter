@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\phase.o
+./release\twochannelaltimeter.o
+./release\impuls.o
+./release\doppler.o
+./release\moc_mainwindow.o
+./release\moc_phase.o
+./release\moc_twochannelaltimeter.o
+./release\moc_impuls.o
+./release\moc_doppler.o
+);
